@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ghostbadfame2002
+- 👋 Hi, I’m Shivam Kapoor
 - 👀 I’m interested in Competitive Programming and Software Develpment
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on various projects and technologies like AI-ML,Blockchain.
 - 💞️ I’m looking to collaborate on everything just want to learn everything possible
 - 📫 How to reach me kapoorshivam77@gmail.com
 
